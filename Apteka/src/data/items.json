@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Ibuprom",
+      "price": 8.99,
+      "imgUrl": "/images/ibuprom.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Polopiryna",
+      "price": 15,
+      "imgUrl": "/images/polopiryna.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sinupret",
+      "price": 22,
+      "imgUrl": "/images/sinupret.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Apap",
+      "price": 14,
+      "imgUrl": "/images/apap.jpg"
+    }
+  ]
